@@ -1,0 +1,12 @@
+2025-03-07 10:19:28 ----- ----- ----- error: ----- WERE  FDKFKDSFJKSF FJKSDFJKSF KFJDKDFK
+2025-03-07 10:24:20 ----- ----- ----- error: ----- Error in proxyError handler: Cannot create property 'path' on string 'application/json'
+2025-03-07 10:25:32 ----- ----- ----- error: ----- Error in proxyError handler: Cannot create property 'path' on string 'application/json'
+2025-03-11 17:14:31 ----- ----- ----- error: ----- Error occured at this proxyErrHandler Error: read ECONNRESET
+2025-03-11 17:15:58 ----- ----- ----- error: ----- Error occured at this proxyErrHandler Error: read ECONNRESET
+2025-03-11 17:16:25 ----- ----- ----- error: ----- Error in proxyError handler: connect ECONNREFUSED ::1:3001
+2025-03-11 17:31:54 ----- ----- ----- error: ----- Error occured at this proxyErrHandler Error: read ECONNRESET
+2025-03-22 01:06:05 ----- ----- ----- error: ----- Error occured at this proxyErrHandler TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "_maxListeners"
+2025-03-22 01:07:54 ----- ----- ----- error: ----- Error occured at this proxyErrHandler TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "_maxListeners"
+2025-03-22 15:41:02 ----- ----- ----- error: ----- Error occurred in proxy: socket hang up
+2025-03-22 18:36:09 ----- ----- ----- error: ----- Error occurred in proxy: read ECONNRESET
+2025-03-30 12:46:13 ----- ----- ----- error: ----- Error occurred in proxy: connect ECONNREFUSED ::1:3002

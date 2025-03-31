@@ -1,0 +1,41 @@
+2025-03-11 16:23:27 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:23:32 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:23:36 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:23:54 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:24:25 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:25:20 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:26:29 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:27:37 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:33:55 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:34:38 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:36:35 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:43:42 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:45:25 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 16:46:44 -- ----- -- error: -- Error at jwt catch block: secret or public key must be provided
+2025-03-11 17:02:40 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-11 17:33:12 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-11 17:33:24 -- ----- -- error: -- Error at jwt catch block: invalid signature
+2025-03-12 13:19:23 -- ----- -- error: -- Error at jwt catch block: invalid signature
+2025-03-12 15:27:32 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-12 15:27:48 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-12 15:38:23 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-12 15:59:03 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-12 18:10:05 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-12 18:25:49 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-12 18:30:58 -- ----- -- error: -- Error at jwt catch block: invalid signature
+2025-03-12 18:40:20 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-14 12:58:15 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-21 23:15:46 -- ----- -- error: -- Error at jwt catch block: errh is not defined
+2025-03-21 23:17:37 -- ----- -- error: -- Error at jwt catch block: Cannot read properties of undefined (reading 'payload')
+2025-03-21 23:45:00 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-22 15:01:42 -- ----- -- error: -- Error at jwt catch block: jwt malformed
+2025-03-22 18:35:00 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-22 21:57:45 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-22 22:31:57 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-29 16:21:43 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-29 16:22:05 -- ----- -- error: -- Error at jwt catch block: invalid signature
+2025-03-29 18:44:10 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-29 21:40:30 -- ----- -- error: -- Error at jwt catch block: invalid token
+2025-03-29 21:40:35 -- ----- -- error: -- Error at jwt catch block: invalid token
+2025-03-29 21:40:48 -- ----- -- error: -- Error at jwt catch block: invalid token
+2025-03-30 11:56:26 -- ----- -- error: -- Error at jwt catch block: jwt expired

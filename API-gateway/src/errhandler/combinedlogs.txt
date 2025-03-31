@@ -1,0 +1,1261 @@
+2025-03-07 10:24:06 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-07 10:24:06 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-07 10:24:06 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-07 10:24:06 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-07 10:24:20 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-07 10:24:20 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-07 10:24:20 ----- ----- ----- error: ----- Error in proxyError handler: Cannot create property 'path' on string 'application/json'
+2025-03-07 10:24:50 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-07 10:24:50 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-07 10:24:50 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-07 10:24:50 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-07 10:25:01 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-07 10:25:01 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-07 10:25:18 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-07 10:25:18 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-07 10:25:18 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-07 10:25:18 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-07 10:25:23 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-07 10:25:23 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-07 10:25:23 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-07 10:25:23 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-07 10:25:32 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-07 10:25:32 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-07 10:25:32 ----- ----- ----- error: ----- Error in proxyError handler: Cannot create property 'path' on string 'application/json'
+2025-03-07 10:26:23 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-07 10:26:23 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-07 10:26:23 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-07 10:26:23 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-07 10:26:25 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-07 10:26:25 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-07 10:26:25 ----- ----- ----- info: ----- res recived from proxy port 3001 identityService Status code : 404
+2025-03-07 10:26:46 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-07 10:26:46 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-07 10:26:46 ----- ----- ----- info: ----- res recived from proxy port 3001 identityService Status code : 202
+2025-03-07 10:56:29 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-07 10:56:29 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-07 10:56:29 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-07 10:56:29 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-07 10:56:44 ----- ----- ----- info: ----- Req Method  POST to /v1/nigga/post
+2025-03-07 10:56:44 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-07 10:56:44 ----- ----- ----- info: ----- res recived from proxy port 3001 identityService Status code : 202
+2025-03-07 10:58:06 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-07 10:58:06 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-07 10:58:06 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-07 10:58:06 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-07 10:58:08 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-07 10:58:08 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-07 10:58:08 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-07 10:58:08 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-07 10:58:10 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-07 10:58:10 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-07 10:58:10 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-07 10:58:10 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-07 10:58:25 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-07 10:58:25 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-07 10:58:25 ----- ----- ----- info: ----- res recived from proxy port 3001 identityService Status code : 202
+2025-03-07 11:12:43 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-07 11:12:43 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-07 11:12:43 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-07 11:12:43 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:07:51 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:07:51 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:07:51 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:07:51 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:08:36 ----- ----- ----- info: ----- Req Method  GET to /
+2025-03-11 16:08:36 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:08:37 ----- ----- ----- info: ----- Req Method  GET to /favicon.ico
+2025-03-11 16:08:37 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:08:55 ----- ----- ----- info: ----- Req Method  GET to /
+2025-03-11 16:08:55 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:13:10 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:13:10 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:13:54 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:13:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:13:59 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:13:59 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:13:59 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:13:59 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:14:08 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:14:08 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:14:08 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:14:08 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:14:09 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:14:09 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:14:09 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:14:09 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:14:10 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:14:10 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:14:10 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:14:10 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:14:13 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:14:13 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:15:54 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:15:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:16:51 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:16:51 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:16:51 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:16:51 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:16:54 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:16:54 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:16:54 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:16:54 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:16:55 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:16:55 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:17:49 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:17:49 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:17:49 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:17:49 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:17:51 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:17:51 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:20:31 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:20:31 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:20:31 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:20:31 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:20:36 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:20:36 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:21:26 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:21:26 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:22:00 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-11 16:22:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:22:00 ----- ----- ----- info: ----- res recived from proxy port 3001 identityService Status code : 404
+2025-03-11 16:22:04 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-11 16:22:04 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:22:04 ----- ----- ----- info: ----- res recived from proxy port 3001 identityService Status code : 404
+2025-03-11 16:22:23 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-11 16:22:23 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:22:23 ----- ----- ----- info: ----- res recived from proxy port 3001 identityService Status code : 202
+2025-03-11 16:22:29 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 16:22:29 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:23:17 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:23:17 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:23:27 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:23:27 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:23:32 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:23:32 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:23:36 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:23:36 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:23:54 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:23:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:24:25 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:24:25 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:25:20 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:25:20 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:26:27 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:26:27 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:26:27 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:26:27 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:26:29 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:26:29 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:27:11 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:27:11 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:27:11 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:27:11 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:27:37 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:27:37 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:28:32 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:28:32 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:28:32 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:28:32 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:33:03 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 16:33:03 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:33:55 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:33:55 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:34:37 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:34:37 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:34:37 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:34:37 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:34:38 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:34:38 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:35:55 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:35:55 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:35:55 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:35:55 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:36:04 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 16:36:04 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:36:15 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:36:15 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:36:15 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:36:15 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:36:17 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 16:36:17 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:36:35 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:36:35 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:39:11 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:39:11 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:39:11 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:39:11 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:39:15 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 16:39:15 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:39:19 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 16:39:19 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:40:23 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 16:40:23 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:40:32 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 16:40:32 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:40:37 ----- ----- ----- info: ----- Req Method  POST to /api/login
+2025-03-11 16:40:37 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:42:02 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:42:02 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:42:02 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:42:02 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:42:56 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 16:42:56 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:43:04 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 16:43:04 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:43:08 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 16:43:08 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:43:37 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:43:37 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:43:37 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:43:37 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:43:42 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 16:43:42 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:45:21 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:45:21 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:45:21 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:45:21 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:45:25 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 16:45:25 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:46:36 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:46:36 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:46:36 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:46:36 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:46:44 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 16:46:44 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:49:51 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 16:49:51 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 16:49:51 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 16:49:51 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 16:49:54 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 16:49:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:50:06 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 16:50:06 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:52:43 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 16:52:43 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 16:53:08 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 16:53:08 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:00:29 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 17:00:29 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 17:00:29 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 17:00:29 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 17:01:43 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 17:01:43 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:02:37 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 17:02:37 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 17:02:37 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 17:02:37 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 17:02:40 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 17:02:40 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:02:44 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 17:02:44 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:02:56 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 17:02:56 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:03:34 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 17:03:34 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:03:50 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 17:03:50 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 17:03:50 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 17:03:50 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 17:13:45 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 17:13:45 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 17:13:45 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 17:13:45 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 17:14:31 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 17:14:31 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:14:31 ----- ----- ----- error: ----- Error occured at this proxyErrHandler Error: read ECONNRESET
+2025-03-11 17:14:59 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 17:14:59 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 17:14:59 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 17:14:59 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 17:15:02 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 17:15:02 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 17:15:02 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 17:15:02 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 17:15:03 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 17:15:03 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 17:15:03 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 17:15:03 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 17:15:07 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 17:15:07 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 17:15:07 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 17:15:07 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 17:15:57 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 17:15:57 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:15:58 ----- ----- ----- error: ----- Error occured at this proxyErrHandler Error: read ECONNRESET
+2025-03-11 17:16:25 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-11 17:16:25 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:16:25 ----- ----- ----- error: ----- Error in proxyError handler: connect ECONNREFUSED ::1:3001
+2025-03-11 17:29:06 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-11 17:29:06 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-11 17:29:06 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-11 17:29:06 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-11 17:31:54 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 17:31:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:31:54 ----- ----- ----- error: ----- Error occured at this proxyErrHandler Error: read ECONNRESET
+2025-03-11 17:32:48 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-11 17:32:48 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:33:12 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 17:33:12 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:33:19 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 17:33:19 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:33:24 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 17:33:24 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:33:30 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-11 17:33:30 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:33:34 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 17:33:34 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-11 17:33:45 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-11 17:33:45 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 12:48:51 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:48:51 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:48:51 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:48:51 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 12:48:56 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 12:48:56 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 12:50:09 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 12:50:09 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 12:51:57 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:51:57 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:51:57 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:51:57 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 12:52:45 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:52:45 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:52:45 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:52:45 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 12:52:48 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:52:49 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:52:49 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:52:49 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 12:52:50 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:52:50 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:52:50 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:52:50 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 12:54:23 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:54:23 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:54:23 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:54:23 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 12:54:28 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:54:28 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:54:28 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:54:28 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 12:55:11 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:55:11 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:55:11 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:55:11 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 12:55:34 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:55:34 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:55:34 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:55:34 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 12:55:35 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:55:35 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:55:35 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:55:35 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 12:58:06 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 12:58:06 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 12:58:06 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 12:58:06 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 13:03:24 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 13:03:24 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 13:07:02 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 13:07:02 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 13:07:02 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 13:07:02 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 13:18:17 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 13:18:17 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 13:18:17 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 13:18:17 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 13:18:20 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 13:18:20 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 13:18:38 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-12 13:18:38 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 13:18:42 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-12 13:18:42 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 13:18:45 ----- ----- ----- info: ----- Req Method  GET to /v1/hello
+2025-03-12 13:18:45 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 13:19:10 ----- ----- ----- info: ----- Req Method  GET to /v1/createPost
+2025-03-12 13:19:10 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 13:19:23 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 13:19:23 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 13:19:30 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 13:19:30 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 13:19:37 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 13:19:37 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 13:19:37 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 13:19:37 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 13:19:52 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 13:19:52 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 13:20:52 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 13:20:53 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 13:20:53 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 13:20:53 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 15:14:53 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 15:14:53 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 15:14:53 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 15:14:53 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 15:16:07 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 15:16:07 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:16:21 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:16:21 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:16:30 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:16:30 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:17:50 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:17:50 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:17:57 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:17:57 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:19:43 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:19:43 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:24:17 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 15:24:17 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 15:24:17 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 15:24:17 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 15:25:46 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 15:25:46 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 15:25:46 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 15:25:46 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 15:27:30 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 15:27:30 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:27:32 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:27:32 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:27:48 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:27:48 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:28:19 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:28:19 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:32:04 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:32:04 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:36:03 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:36:03 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:36:47 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:36:47 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:36:50 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:36:50 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:36:51 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:36:51 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:37:03 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:37:03 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:38:23 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:38:23 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:38:28 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 15:38:28 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:38:45 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:38:45 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:41:13 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:41:13 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:43:08 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:43:08 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:43:22 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:43:22 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:50:10 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 15:50:10 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 15:50:10 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 15:50:10 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 15:53:55 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 15:53:55 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 15:53:55 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 15:53:55 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 15:53:55 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 15:53:55 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 15:53:55 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 15:53:55 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 15:53:58 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 15:53:58 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 15:53:58 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 15:53:58 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 15:59:03 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:59:03 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:59:06 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 15:59:06 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 15:59:25 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 15:59:25 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 16:00:08 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 16:00:08 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 16:00:08 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 16:00:08 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 18:05:27 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 18:05:27 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 18:05:27 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 18:05:28 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 18:09:54 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 18:09:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:10:05 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:10:05 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:10:18 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:10:18 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:10:32 ----- ----- ----- info: ----- Req Method  GET to /process/task_queues:90:21)
+2025-03-12 18:10:32 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:25:49 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:25:49 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:25:54 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 18:25:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:26:05 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:26:05 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:29:41 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 18:29:41 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:30:39 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:30:39 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:30:54 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:30:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:30:58 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:30:58 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:31:02 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:31:02 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:32:20 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:32:20 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:32:58 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 18:32:58 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 18:32:58 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 18:32:58 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 18:33:04 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 18:33:04 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 18:33:04 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 18:33:04 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 18:34:50 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:34:50 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:34:59 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:34:59 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:35:06 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:35:06 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:36:46 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:36:46 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:37:59 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:37:59 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:40:20 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:40:20 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:41:22 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 18:41:22 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:41:31 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 18:41:31 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:41:43 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:41:43 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:43:40 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:43:40 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 18:45:05 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 18:45:05 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 19:09:13 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:09:13 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:09:13 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:09:13 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:12:02 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:12:02 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:12:02 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:12:02 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:38:33 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:38:33 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:38:33 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:38:33 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:38:59 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-12 19:38:59 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 19:39:53 ----- ----- ----- info: ----- Req Method  POST to /api/createPost
+2025-03-12 19:39:53 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 19:40:21 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:40:21 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:40:21 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:40:21 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:40:34 ----- ----- ----- info: ----- Req Method  POST to /api/createPost
+2025-03-12 19:40:34 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 19:40:57 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 19:40:57 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 19:41:58 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:41:58 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:41:58 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:41:58 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:41:59 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:41:59 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:41:59 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:41:59 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:42:13 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 19:42:13 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 19:44:09 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:44:09 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:44:09 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:44:09 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:44:11 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:44:11 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:44:11 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:44:11 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:45:42 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:45:42 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:45:42 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:45:42 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:46:14 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 19:46:14 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 19:46:59 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:46:59 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:46:59 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:46:59 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:47:00 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:47:00 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:47:00 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:47:00 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:47:02 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:47:02 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:47:02 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:47:02 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:47:09 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:47:09 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:47:09 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:47:09 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-12 19:47:34 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 19:47:34 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 19:48:07 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-12 19:48:07 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-12 19:49:28 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-12 19:49:28 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-12 19:49:28 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-12 19:49:28 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-14 12:33:23 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-14 12:33:23 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-14 12:33:23 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-14 12:33:23 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-14 12:39:32 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-14 12:39:32 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-14 12:39:32 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-14 12:39:32 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-14 12:39:34 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-14 12:39:34 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-14 12:39:34 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-14 12:39:34 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-14 12:45:22 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-14 12:45:22 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-14 12:45:26 ----- ----- ----- info: ----- res recived from proxy port 3001 identityService Status code : 202
+2025-03-14 12:45:42 ----- ----- ----- info: ----- Req Method  POST to /v1/post
+2025-03-14 12:45:42 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-14 12:45:42 ----- ----- ----- info: ----- res recived from proxy port 3001 identityService Status code : 404
+2025-03-14 12:46:09 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-14 12:46:09 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-14 12:46:17 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-14 12:46:17 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-14 12:46:22 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-14 12:46:22 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-14 12:51:51 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-14 12:51:51 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-14 12:55:11 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-14 12:55:11 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-14 12:55:11 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-14 12:55:11 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-14 12:55:31 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-14 12:55:31 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-14 12:55:31 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-14 12:55:31 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-14 12:56:17 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-14 12:56:17 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-14 12:56:17 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-14 12:56:17 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-14 12:56:19 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-14 12:56:19 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-14 12:56:19 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-14 12:56:19 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-14 12:58:15 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-14 12:58:15 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-14 12:58:22 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-14 12:58:22 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-14 12:59:18 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-14 12:59:18 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-14 12:59:30 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-14 12:59:30 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-14 12:59:30 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-14 12:59:30 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-21 23:10:16 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-21 23:10:16 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-21 23:10:16 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-21 23:10:16 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-21 23:15:46 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-21 23:15:46 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:16:06 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-21 23:16:06 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-21 23:16:06 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-21 23:16:06 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-21 23:17:37 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-21 23:17:37 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:18:08 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-21 23:18:08 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-21 23:18:08 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-21 23:18:08 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-21 23:18:10 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-21 23:18:10 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:18:41 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-21 23:18:41 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-21 23:18:41 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-21 23:18:41 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-21 23:20:21 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-21 23:20:21 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:23:57 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-21 23:23:57 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-21 23:23:57 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-21 23:23:57 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-21 23:23:58 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-21 23:23:58 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-21 23:23:58 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-21 23:23:58 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-21 23:27:25 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-21 23:27:25 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:28:55 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-21 23:28:55 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-21 23:28:55 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-21 23:28:55 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-21 23:43:45 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-21 23:43:45 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:43:47 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-21 23:43:47 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:45:00 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-21 23:45:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:45:08 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-21 23:45:08 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:47:33 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-21 23:47:33 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:47:45 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-21 23:47:45 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-21 23:53:31 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-21 23:53:31 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-21 23:53:31 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-21 23:53:31 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-21 23:53:33 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-21 23:53:33 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-21 23:53:33 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-21 23:53:33 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-21 23:53:39 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-21 23:53:39 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 00:54:19 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 00:54:19 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:00:38 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:00:38 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:00:38 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:00:38 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:05:37 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:05:37 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:05:37 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:05:37 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:06:05 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:06:05 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:06:05 ----- ----- ----- error: ----- Error occured at this proxyErrHandler TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "_maxListeners"
+2025-03-22 01:07:54 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:07:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:07:54 ----- ----- ----- error: ----- Error occured at this proxyErrHandler TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value "undefined" for header "_maxListeners"
+2025-03-22 01:08:52 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:08:52 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:08:52 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:08:52 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:08:54 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:08:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:14:03 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:14:03 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:14:03 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:14:03 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:14:07 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:14:07 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:14:48 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:14:48 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:14:48 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:14:48 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:14:50 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:14:50 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:14:50 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:14:50 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:14:51 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:14:51 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:14:51 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:14:51 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:14:53 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:14:53 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:14:53 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:14:53 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:15:00 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:15:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:16:32 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:16:33 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:16:33 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:16:33 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:16:35 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:16:35 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:16:35 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:16:35 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:16:37 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:16:37 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:16:37 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:16:37 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:16:44 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:16:44 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:16:44 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:16:44 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:18:09 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:18:09 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:18:09 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:18:09 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:18:11 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:18:11 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:18:22 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:18:22 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:18:22 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:18:22 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:18:24 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:18:24 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:18:47 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:18:47 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:18:47 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:18:47 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:18:48 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:18:48 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:18:48 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:18:48 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:18:52 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:18:52 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:18:52 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:18:52 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:18:58 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-22 01:18:58 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:21:22 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:21:22 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:21:22 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:21:22 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:24:26 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:24:26 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:28:00 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:28:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:29:31 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:29:31 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:31:45 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:31:45 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:31:45 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:31:45 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:31:46 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:31:46 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:31:46 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:31:46 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:31:50 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:31:50 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:31:50 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:31:50 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:32:22 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:32:22 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:32:22 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:32:22 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:32:23 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:32:23 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:32:23 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:32:23 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:33:48 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:33:48 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:34:25 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:34:25 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:35:03 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:35:03 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:35:37 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:35:37 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:35:52 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:35:52 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:37:00 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:37:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:37:53 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:37:53 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:38:43 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:38:43 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:39:59 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:39:59 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:41:04 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:41:04 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:41:04 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:41:04 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:41:07 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:41:07 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:41:07 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:41:07 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:41:11 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 01:41:11 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:44:56 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:44:56 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:44:56 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:44:56 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:46:23 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-22 01:46:23 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 01:50:09 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:50:09 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:50:09 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:50:09 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:50:10 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:50:10 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:50:10 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:50:10 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:50:11 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:50:11 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:50:11 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:50:11 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 01:50:13 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 01:50:13 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 01:50:13 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 01:50:13 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 02:03:13 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 02:03:13 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 02:03:13 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 02:03:13 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 02:03:15 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 02:03:15 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 02:03:15 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 02:03:15 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 02:03:17 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 02:03:17 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 02:03:17 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 02:03:17 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 02:03:30 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 02:03:30 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 02:03:30 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 02:03:30 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 02:04:17 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 02:04:17 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 02:04:17 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 02:04:17 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 02:06:20 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 02:06:20 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 02:07:43 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 02:07:43 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 02:07:43 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 02:07:43 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 14:53:03 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 14:53:03 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 14:53:03 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 14:53:03 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 14:55:34 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 14:55:34 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 14:57:23 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 14:57:23 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 14:58:08 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 14:58:08 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 14:58:18 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 14:58:18 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:00:32 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 15:00:32 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 15:00:32 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 15:00:32 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 15:00:33 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 15:00:33 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 15:00:33 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 15:00:33 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 15:00:34 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 15:00:34 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 15:00:34 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 15:00:34 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 15:00:35 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 15:00:35 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 15:00:35 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 15:00:35 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 15:00:39 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:00:39 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:00:50 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:00:50 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:00:56 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:00:56 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:01:09 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:01:09 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:01:35 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 15:01:35 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 15:01:35 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 15:01:35 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 15:01:37 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 15:01:38 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 15:01:38 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 15:01:38 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 15:01:42 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:01:42 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:02:03 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-22 15:02:03 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:02:16 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:02:16 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:03:26 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 15:03:26 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 15:03:26 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 15:03:26 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 15:04:24 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:04:24 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:04:46 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:04:46 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:07:36 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:07:36 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:09:33 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:09:33 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:16:05 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:16:05 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:16:45 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:16:45 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:29:31 ----- ----- ----- info: ----- Req Method  GET to /v1/getAllPost
+2025-03-22 15:29:31 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:30:28 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:30:28 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:31:12 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:31:12 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:41:02 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:41:02 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 15:41:53 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 15:41:53 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 15:41:53 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 15:41:53 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 15:41:58 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 15:41:58 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:33:39 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 18:33:39 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 18:33:39 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 18:33:39 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 18:35:00 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:35:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:35:06 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-22 18:35:06 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:35:25 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:35:25 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:36:09 ----- ----- ----- error: ----- Error occurred in proxy: read ECONNRESET
+2025-03-22 18:36:42 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 18:36:42 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 18:36:42 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 18:36:42 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 18:37:10 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:37:10 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:37:55 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 18:37:55 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 18:37:55 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 18:37:55 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 18:37:57 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:37:57 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:38:46 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:38:46 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:38:48 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:38:48 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:40:38 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:40:38 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:42:27 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:42:27 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:42:56 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:42:56 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:42:57 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:42:57 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:42:58 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:42:58 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:42:59 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:42:59 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:42:59 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:42:59 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:43:00 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:43:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:43:00 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:43:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:43:00 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:43:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:43:01 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:43:01 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:43:23 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-22 18:43:23 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:43:37 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:43:37 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 18:43:42 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 18:43:42 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:57:05 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 21:57:05 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 21:57:05 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 21:57:05 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-22 21:57:45 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:57:45 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:57:52 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-22 21:57:52 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:58:11 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:58:11 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:26 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:26 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:30 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:30 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:32 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:32 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:33 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:33 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:33 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:33 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:34 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:34 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:35 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:35 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:36 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:36 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:37 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:37 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:37 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:37 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 21:59:38 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 21:59:38 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:31:43 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 22:31:43 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:31:44 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 22:31:44 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:31:47 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 22:31:47 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:31:48 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 22:31:48 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:31:53 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 22:31:53 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:31:57 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 22:31:57 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:32:01 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-22 22:32:01 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:32:16 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 22:32:16 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:32:27 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 22:32:27 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:32:29 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 22:32:29 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:32:30 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 22:32:30 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:32:34 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-22 22:32:34 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:33:00 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 22:33:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 22:33:02 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-22 22:33:02 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-22 23:41:17 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-22 23:41:17 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-22 23:41:17 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-22 23:41:17 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-29 16:19:44 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-29 16:19:44 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-29 16:19:44 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-29 16:19:44 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-29 16:20:47 ----- ----- ----- info: ----- Req Method  GET to /
+2025-03-29 16:20:47 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:20:48 ----- ----- ----- info: ----- Req Method  GET to /favicon.ico
+2025-03-29 16:20:48 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:21:43 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-29 16:21:43 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:21:50 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-29 16:21:50 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:22:05 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-29 16:22:05 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:22:09 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-29 16:22:09 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:22:38 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 16:22:38 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:23:00 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 16:23:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:24:33 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-29 16:24:33 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-29 16:24:33 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-29 16:24:33 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-29 16:25:12 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 16:25:12 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:26:04 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 16:26:04 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:26:18 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-29 16:26:18 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:26:20 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-29 16:26:20 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:26:21 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-29 16:26:21 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:26:21 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-29 16:26:21 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:26:22 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-29 16:26:22 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 16:50:25 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-29 16:50:25 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-29 16:50:25 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-29 16:50:25 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-29 18:43:24 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-29 18:43:24 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-29 18:43:24 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-29 18:43:24 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-29 18:44:10 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-29 18:44:10 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 18:44:15 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-29 18:44:15 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 18:44:48 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 18:44:48 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 18:46:09 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 18:46:09 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 18:47:19 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 18:47:19 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 18:49:26 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 18:49:26 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:33:48 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-29 21:33:48 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-29 21:33:48 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-29 21:33:48 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-29 21:40:15 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-29 21:40:15 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:40:30 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 21:40:30 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:40:35 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 21:40:35 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:40:48 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 21:40:48 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:40:52 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-29 21:40:52 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:41:13 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 21:41:13 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:44:24 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-29 21:44:24 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:44:37 ----- ----- ----- info: ----- Req Method  POST to /v1//deletPost/67e81ba51ddc4751f6bdc186
+2025-03-29 21:44:37 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:44:58 ----- ----- ----- info: ----- Req Method  POST to /v1//deletPost/:67e81ba51ddc4751f6bdc186
+2025-03-29 21:44:58 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:45:24 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67e81ba51ddc4751f6bdc186
+2025-03-29 21:45:24 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:45:31 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67e81ba51ddc4751f6bdc186
+2025-03-29 21:45:31 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:46:29 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67e81ba51ddc4751f6bdc186
+2025-03-29 21:46:29 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-29 21:47:04 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67e81ba51ddc4751f6bdc186
+2025-03-29 21:47:04 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 11:52:10 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-30 11:52:10 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-30 11:52:10 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-30 11:52:10 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-30 11:53:59 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-30 11:53:59 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 11:54:54 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-30 11:54:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 11:55:15 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-30 11:55:15 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 11:56:07 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddac3eaa5fcbd7b5cd9504
+2025-03-30 11:56:07 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 11:56:26 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-30 11:56:26 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 11:56:31 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-30 11:56:31 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 11:56:47 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddc28df0a7a21bf12560b0
+2025-03-30 11:56:47 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 11:58:50 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddac3eaa5fcbd7b5cd9504
+2025-03-30 11:58:50 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:30:20 ----- ----- ----- info: ----- Req Method  POST to /v1/login
+2025-03-30 12:30:20 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:30:36 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-30 12:30:36 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:31:00 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-30 12:31:00 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:31:07 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-30 12:31:07 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:31:32 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddac3eaa5fcbd7b5cd9504
+2025-03-30 12:31:32 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:31:50 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddac3eaa5fcbd7b5cd9504
+2025-03-30 12:31:50 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:32:06 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddc545b5a7283b2cd93fdd
+2025-03-30 12:32:06 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:33:18 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddc545b5a7283b2cd93fdd
+2025-03-30 12:33:18 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:33:54 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-30 12:33:54 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:40:20 ----- ----- ----- info: ----- Req Method  POST to /v1/createPost
+2025-03-30 12:40:20 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:40:40 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddac3eaa5fcbd7b5cd9504
+2025-03-30 12:40:40 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:40:49 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddac3eaa5fcbd7b5cd9504
+2025-03-30 12:40:49 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:41:01 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddc6a74243902026c567c6
+2025-03-30 12:41:01 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:41:51 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67ddc6a74243902026c567c6
+2025-03-30 12:41:51 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:42:01 ----- ----- ----- info: ----- Req Method  POST to /v1/deletPost/67d3d6555e9c15575e360a75
+2025-03-30 12:42:01 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:46:13 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-30 12:46:13 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 12:46:13 ----- ----- ----- error: ----- Error occurred in proxy: connect ECONNREFUSED ::1:3002
+2025-03-30 12:46:34 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-30 12:46:34 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-30 12:46:34 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-30 12:46:34 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS
+2025-03-30 12:46:36 ----- ----- ----- info: ----- Req Method  GET to /v1/getPost
+2025-03-30 12:46:36 ----- ----- ----- info: ----- Req Body [object Object]
+2025-03-30 14:00:48 ----- ----- ----- info: ----- Api gateway running on port 3000
+2025-03-30 14:00:48 ----- ----- ----- info: ----- Identity service is running on port http://localhost:3001
+2025-03-30 14:00:48 ----- ----- ----- info: ----- Redis url redis://127.0.0.1:6379/0
+2025-03-30 14:00:48 ----- ----- ----- info: ----- CONNECTED TO API GATEWAY RE-DIS

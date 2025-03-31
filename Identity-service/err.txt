@@ -1,0 +1,82 @@
+2025-02-26T09:25:41.996Z , --  message , --  error: --  Failed to assign JWT:  Cannot create property 'Symbol(level)' on string 'jsonwebtoken assigned'
+2025-02-26T09:25:41.997Z , --  message , --  error: --  Error in create TOken
+2025-02-26T09:25:42.002Z , --  message , --  error: --  INTERNAL SERVER ERR
+2025-02-26T09:29:53.187Z , --  message , --  error: --  REGISTER-USER-error
+2025-02-26T09:30:05.883Z , --  message , --  error: --  Failed to assign JWT:  Cannot create property 'Symbol(level)' on string 'jsonwebtoken assigned'
+2025-02-26T09:30:05.884Z , --  message , --  error: --  Error in create TOken
+2025-02-26T09:30:05.887Z , --  message , --  error: --  INTERNAL SERVER ERR
+2025-02-26T09:34:50.056Z , --  message , --  error: --  REGISTER-USER-error
+2025-02-26T09:35:00.387Z , --  message , --  error: --  Failed to assign JWT:  Cannot create property 'Symbol(level)' on string 'jsonwebtoken assigned'
+2025-02-26T09:35:00.388Z , --  message , --  error: --  Error in create TOken
+2025-02-26T09:35:00.391Z , --  message , --  error: --  INTERNAL SERVER ERR
+2025-02-26T09:37:36.553Z , --  message , --  error: --  REGISTER-USER-error
+2025-02-26T09:38:07.675Z , --  message , --  error: --  REGISTER-USER-error
+2025-02-26T09:41:12.101Z , --  message , --  error: --  REGISTER-USER-error
+2025-02-26T09:41:41.141Z , --  message , --  error: --  REGISTER-USER-error
+2025-02-26T09:41:46.348Z , --  message , --  error: --  Validation-Err
+2025-02-26T09:42:12.821Z , --  message , --  error: --  INTERNAL SERVER ERR
+2025-02-26T09:42:46.615Z , --  message , --  error: --  REGISTER-USER-error
+2025-02-26T09:42:54.907Z , --  message , --  error: --  INTERNAL SERVER ERR
+2025-02-26T09:45:09.770Z , --  message , --  error: --  REGISTER-USER-error
+2025-02-26T09:45:23.385Z , --  message , --  error: --  INTERNAL SERVER ERR INT
+2025-02-26T09:47:31.378Z , --  message , --  error: --  SyntaxError: Expected ',' or '}' after property value in JSON at position 98 (line 4 column 29)
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\abhir\OneDrive\Desktop\MICROSERVICE\Identity-service\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\abhir\OneDrive\Desktop\MICROSERVICE\Identity-service\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\abhir\OneDrive\Desktop\MICROSERVICE\Identity-service\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\abhir\OneDrive\Desktop\MICROSERVICE\Identity-service\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\abhir\OneDrive\Desktop\MICROSERVICE\Identity-service\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:507:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-02-26T09:48:55.153Z , --  message , --  error: --  REGISTER-USER-error
+2025-02-26T09:49:02.318Z , --  message , --  error: --  INTERNAL SERVER ERR INT
+2025-02-26 15:21:03 -- message -- error: -- REGISTER-USER-error
+2025-02-26 15:21:58 -- message -- error: -- REGISTER-USER-error
+2025-02-26 15:22:05 -- message -- error: -- REGISTER-USER-error
+2025-03-06 09:47:24 -- ----- -- error: -- REGISTER-USER-error
+2025-03-06 09:47:41 -- ----- -- error: -- Validation-Err
+2025-03-06 09:48:00 -- ----- -- error: -- REGISTER-USER-error
+2025-03-06 09:48:01 -- ----- -- error: -- REGISTER-USER-error
+2025-03-06 09:48:02 -- ----- -- error: -- REGISTER-USER-error
+2025-03-06 09:48:04 -- ----- -- error: -- REGISTER-USER-error
+2025-03-06 09:48:08 -- ----- -- error: -- REGISTER-USER-error
+2025-03-06 09:48:10 -- ----- -- error: -- REGISTER-USER-error
+2025-03-06 18:52:47 -- ----- -- error: -- Validation-Err
+2025-03-07 10:26:25 -- ----- -- error: -- REGISTER-USER-error
+2025-03-07 16:28:14 -- ----- -- error: -- REGISTER-USER-error
+2025-03-07 17:33:41 -- ----- -- error: -- Error in refresh token req is not defined
+2025-03-07 20:17:28 -- ----- -- error: -- REGISTER-USER-error
+2025-03-07 20:17:37 -- ----- -- error: -- Validation-Err
+2025-03-07 20:28:23 -- ----- -- error: -- Error at jwt catch block: invalid signature
+2025-03-07 20:28:29 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-07 20:29:37 -- ----- -- error: -- Error at jwt catch block: jwt malformed
+2025-03-07 20:31:18 -- ----- -- error: -- Error at jwt catch block: invalid signature
+2025-03-07 20:33:04 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-07 20:33:37 -- ----- -- error: -- Error at jwt catch block: invalid signature
+2025-03-07 20:38:19 -- ----- -- error: -- Error at jwt catch block: invalid signature
+2025-03-08 13:38:56 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-08 13:39:56 -- ----- -- error: -- "password" length must be at least 8 characters long
+2025-03-11 16:22:00 -- ----- -- error: -- REGISTER-USER-error
+2025-03-11 16:22:04 -- ----- -- error: -- REGISTER-USER-error
+2025-03-11 16:29:58 -- ----- -- error: -- Error at jwt catch block: jwt malformed
+2025-03-11 16:43:04 -- ----- -- error: -- Error at jwt catch block: jwt expired
+2025-03-11 17:14:31 -- ----- -- error: -- Failed to assign JWT
+2025-03-11 17:15:58 -- ----- -- error: -- Failed to assign JWT
+2025-03-11 17:29:13 -- ----- -- error: -- Failed to assign JWT
+2025-03-11 17:31:54 -- ----- -- error: -- Failed to assign JWT
+2025-03-12 13:16:59 -- ----- -- error: -- Error at jwt catch block: invalid signature
+2025-03-14 12:45:42 -- ----- -- error: -- REGISTER-USER-error
+2025-03-14 12:51:51 -- ----- -- error: -- "username" is required
+2025-03-21 23:43:12 -- ----- -- error: -- SyntaxError: Expected ',' or '}' after property value in JSON at position 52 (line 4 column 1)
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\abhir\OneDrive\Desktop\MICROSERVICE\Identity-service\node_modules\body-parser\lib\types\json.js:92:19)
+    at C:\Users\abhir\OneDrive\Desktop\MICROSERVICE\Identity-service\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)
+    at invokeCallback (C:\Users\abhir\OneDrive\Desktop\MICROSERVICE\Identity-service\node_modules\raw-body\index.js:238:16)
+    at done (C:\Users\abhir\OneDrive\Desktop\MICROSERVICE\Identity-service\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (C:\Users\abhir\OneDrive\Desktop\MICROSERVICE\Identity-service\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:507:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
